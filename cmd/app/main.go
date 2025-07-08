@@ -1,11 +1,12 @@
 package main
 
 import (
-	"fmt"
+	//"fmt"
 	"go_hexlet/utils"
 )
 
 func main(){
-	fmt.Println("Hello, Go!")
-	utils.Reader()
+	//fmt.Println("Hello, Go!")
+	//utils.Reader()
+	utils.VariableScanner()
 }
