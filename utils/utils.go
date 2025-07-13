@@ -13,3 +13,9 @@ func VariableScanner(){
 	fmt.Scan(&var1)
 	fmt.Println("Scanned variable: ", var1)
 }
+
+func TestFunc(){
+	var string1 string
+	fmt.Scan(&string1)
+	fmt.Println("You enter the line: ", string1)
+}

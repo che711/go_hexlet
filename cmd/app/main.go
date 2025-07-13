@@ -8,5 +8,6 @@ import (
 func main(){
 	//fmt.Println("Hello, Go!")
 	//utils.Reader()
-	utils.VariableScanner()
+	//utils.VariableScanner()
+	utils.TestFunc()
 }
