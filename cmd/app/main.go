@@ -9,5 +9,6 @@ func main(){
 	//fmt.Println("Hello, Go!")
 	//utils.Reader()
 	//utils.VariableScanner()
-	utils.TestFunc()
+	//utils.TestFunc()
+	utils.NumberFoo()
 }
