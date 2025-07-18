@@ -19,3 +19,8 @@ func TestFunc(){
 	fmt.Scan(&string1)
 	fmt.Println("You enter the line: ", string1)
 }
+
+func NumberFoo(){
+	var num int
+	fmt.Println("You enter number: ", num)
+}
