@@ -24,3 +24,8 @@ func NumberFoo(){
 	var num int
 	fmt.Println("You enter number: ", num)
 }
+
+func TestString(){
+	var str_one string
+	fmt.Println("Main line is here. Test message")
+}
