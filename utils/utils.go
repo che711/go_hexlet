@@ -26,6 +26,6 @@ func NumberFoo(){
 }
 
 func TestString(){
-	var str_one string
+	// var str_one string
 	fmt.Println("Main line is here. Test message")
 }
