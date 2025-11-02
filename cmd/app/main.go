@@ -13,6 +13,3 @@ func main(){
 	utils.NumberFoo()
 }
 
-
-
-
