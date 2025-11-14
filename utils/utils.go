@@ -29,3 +29,14 @@ func TestString(){
 	// var str_one string
 	fmt.Println("Main line is here. Test message")
 }
+
+func LoverMethod() {
+    var petals int           // Шаг 1: Объявляем переменную
+    fmt.Scan(&petals)        // Шаг 2: Читаем ввод пользователя
+    
+    if petals % 2 == 0 {     // Шаг 3: Проверяем четность
+        fmt.Println("любит") // Шаг 4а: Если четное - "любит"
+    } else {
+        fmt.Println("не любит") // Шаг 4б: Если нечетное - "не любит"
+    }
+}
