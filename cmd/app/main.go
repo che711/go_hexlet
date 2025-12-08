@@ -11,6 +11,8 @@ func main(){
 	//utils.VariableScanner()
 	// utils.TestFunc()
 	// utils.NumberFoo()
-	utils.LoverMethod()
+	//utils.LoverMethod()
+	utils.SimpleTestLogger()
 }
+
 

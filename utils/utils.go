@@ -2,6 +2,8 @@ package utils
 
 import(
 	"fmt"
+	"log"
+	"time"
 )
 
 func Reader(){
@@ -39,4 +41,10 @@ func LoverMethod() {
     } else {
         fmt.Println("не любит") // Шаг 4б: Если нечетное - "не любит"
     }
+}
+
+func SimpleTestLogger(){
+    log.Println("\n\n\tFigure out with log.Println method from go\n")
+    log.Printf("\n\n\tCheck log.Printf for go\n")
+    log.Println("\n\n\ttim.Now: ", time.Now())
 }
