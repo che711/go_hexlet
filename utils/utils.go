@@ -48,3 +48,7 @@ func SimpleTestLogger(){
     log.Printf("\n\n\tCheck log.Printf for go\n")
     log.Println("\n\n\ttim.Now: ", time.Now())
 }
+
+
+
+
